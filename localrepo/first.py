@@ -9,4 +9,4 @@ age2 = age
 print (age2)
 print (type(name))
 print (type(age))
-print (type(price))
+print (type(price)) 
